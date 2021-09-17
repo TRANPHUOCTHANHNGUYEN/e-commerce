@@ -41,16 +41,6 @@ export const SHOP = {
         { name: "lamp", iconClass: "icon-lamp" },
         { name: "bed", iconClass: "icon-bed" },
       ],
-    },
-    {
-      name: "comestic",
-      sub: [
-        { name: "lipstick", iconClass: "icon-lipstick" },
-        { name: "powder", iconClass: "icon-powder" },
-        { name: "perfume", iconClass: "icon-perfurm" },
-        { name: "nail polish", iconClass: "icon-nail" },
-        { name: "mascara", iconClass: "icon-mascara" },
-      ],
-    },
+    }
   ],
 };

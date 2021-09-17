@@ -15,7 +15,7 @@ export default function Home() {
     router.query.q
   );
   return (
-    <LayoutOne title="Homepage 3" containerType="fluid" headerStyle="two">
+    <LayoutOne title="Globonus" containerType="fluid" headerStyle="two">
       <ShopLayout
         fiveColumn
         shopSidebarResponsive={{ xs: 24, lg: 4 }}

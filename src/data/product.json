@@ -606,7 +606,7 @@
       "/assets/images/products/fruits/10.png",
       "/assets/images/products/fruits/11.png",
       "/assets/images/products/fruits/12.png",
-      "/assets/images/products/fruits/12.png"
+      "/assets/images/products/fruits/13.png"
     ],
     "description": "",
     "slug": "garlic-26"
@@ -722,7 +722,7 @@
     "id": "32",
     "category": "fruits",
     "subCategory": "vegatables",
-    "name": "Cabbage",
+    "name": "pomegranate",
     "rate": 3,
     "price": 16,
     "quantity": 20,
@@ -737,13 +737,13 @@
       "/assets/images/products/fruits/19.png"
     ],
     "description": "",
-    "slug": "cabbage-32"
+    "slug": "pomegranate-32"
   },
   {
     "id": "33",
     "category": "fruits",
     "subCategory": "fruits",
-    "name": "Orange",
+    "name": "Cabbage",
     "rate": 5,
     "price": 13,
     "isNew": true,
@@ -759,13 +759,13 @@
       "/assets/images/products/fruits/20.png"
     ],
     "description": "",
-    "slug": "pomegranate-31"
+    "slug": "Cabbage-31"
   },
   {
     "id": "34",
     "category": "fruits",
-    "subCategory": "vegatables",
-    "name": "Cauliflower",
+    "subCategory": "vegatables",    
+    "name": "Orange",
     "rate": 4,
     "price": 23,
     "quantity": 8,
@@ -780,7 +780,7 @@
       "/assets/images/products/fruits/1.png"
     ],
     "description": "",
-    "slug": "cauliflower-34"
+    "slug": "Orange-34"
   },
   {
     "id": "35",
