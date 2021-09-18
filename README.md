@@ -17,4 +17,8 @@ npm run dev
 yarn dev
 ```
 
-<img src="public/images/main.png" alt="" style="max-width: 100%;">
+<img src="public/assets/preview/main.png" alt="" style="max-width: 100%;">
+
+<img src="public/assets/preview/main1.png" alt="" style="max-width: 100%;">
+
+<img src="public/assets/preview/main2.png" alt="" style="max-width: 100%;">
